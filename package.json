@@ -1,0 +1,17 @@
+{
+    "name": "transjson",
+    "version": "1.0.0",
+    "description": "a script that automates the translation of a json using the deepl api",
+    "bin": "./transjson/__main__.py",
+    "scripts": {
+        "preinstall": "pip install -r requirements.txt"
+    },
+    "keywords": [
+        "json",
+        "translation",
+        "deepl",
+        "i18n"
+    ],
+    "author": "Gael-devv",
+    "license": "MIT"
+}

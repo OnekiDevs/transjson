@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 from parser import Parser
 import threading
 import dotenv
